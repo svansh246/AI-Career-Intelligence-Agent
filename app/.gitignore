@@ -1,0 +1,29 @@
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+
+# Personal files
+*.pdf
+*.docx
